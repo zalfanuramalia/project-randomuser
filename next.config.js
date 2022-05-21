@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    NEXT_PUBLIC_URL: 'https://randomuser.me',
+    NEXT_PUBLIC_BACKEND_URL: 'https://randomuser.me',
   }
 }
 
