@@ -4,7 +4,7 @@ import user from "./user";
 
 const rootReducers = combineReducers({
     pages,
-    user
+    user,
 })
 
 export default rootReducers
